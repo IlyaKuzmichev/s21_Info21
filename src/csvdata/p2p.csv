@@ -1,0 +1,17 @@
+check,checking_peer,state,time
+1,Baboba,Start,13:00
+1,Baboba,Success,13:24
+3,Cagoga,Start,18:22
+3,Cagoga,Success,18:36
+2,Cagoga,Start,14:44
+2,Cagoga,Success,15:15
+4,Egogo,Start,20:54
+4,Egogo,Failure,21:10
+5,Derevo,Start,11:20
+5,Derevo,Success,11:33
+6,Derevo,Start,10:55
+6,Derevo,Success,11:15
+7,Cagoga,Start,10:00
+7,Cagoga,Success,10:15
+8,Cagoga,Start,10:30
+8,Cagoga,Success,10:40
